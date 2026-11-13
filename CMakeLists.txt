@@ -14,6 +14,7 @@ target_link_libraries(VitaOverdrive
   vita2d
   SceCtrl_stub
   SceDisplay_stub
+  SceGxm_stub
 )
 
 vita_create_self(VitaOverdrive.self VitaOverdrive)
