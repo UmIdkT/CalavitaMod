@@ -1,5 +1,6 @@
 #include <psp2/ctrl.h>
 #include <psp2/display.h>
+#include <psp2/kernel/processmgr.h>
 #include <vita2d.h>
 
 int main(void) {
